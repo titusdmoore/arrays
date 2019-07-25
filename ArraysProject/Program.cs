@@ -8,7 +8,7 @@ namespace ArraysProject {
             // Add Data
             frames[0] = 18;
             frames[1] = 17;
-            frames[2] = 5;
+            frames[2] = 5; 
             frames[3] = 19;
             frames[4] = 26;
             frames[5] = 30;
